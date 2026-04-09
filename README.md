@@ -55,20 +55,20 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> 
 
   </br>[메뉴 구성]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 06 33" src="https://github.com/user-attachments/assets/f03ef9a7-8200-4f78-b2be-4867f8447680" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 06 33" src="https://github.com/user-attachments/assets/f03ef9a7-8200-4f78-b2be-4867f8447680" />
   
   </br>[경기관리 스크린]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 12 46 28" src="https://github.com/user-attachments/assets/6ef3c60a-3ced-49c5-92bc-2342df6930c6" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 12 48 17" src="https://github.com/user-attachments/assets/d01a41ce-61f2-4978-a5b6-98360b3356ae" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 12 48 21" src="https://github.com/user-attachments/assets/e912c14c-11c5-441d-820a-ee1ff69856a4" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 12 46 28" src="https://github.com/user-attachments/assets/6ef3c60a-3ced-49c5-92bc-2342df6930c6" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 12 48 17" src="https://github.com/user-attachments/assets/d01a41ce-61f2-4978-a5b6-98360b3356ae" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 12 48 21" src="https://github.com/user-attachments/assets/e912c14c-11c5-441d-820a-ee1ff69856a4" />
 
   </br>[레슨관리 스크린]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 09 04" src="https://github.com/user-attachments/assets/c933a39a-8e75-49e7-80b8-e593f5fec9ec" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 09 08" src="https://github.com/user-attachments/assets/d7c77e42-8036-4371-b658-389c5554c5b9" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 09 14" src="https://github.com/user-attachments/assets/a8fb1100-34c8-46fa-a728-a925c773b285" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 09 04" src="https://github.com/user-attachments/assets/c933a39a-8e75-49e7-80b8-e593f5fec9ec" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 09 08" src="https://github.com/user-attachments/assets/d7c77e42-8036-4371-b658-389c5554c5b9" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 09 14" src="https://github.com/user-attachments/assets/a8fb1100-34c8-46fa-a728-a925c773b285" />
 
   </br>[스코어 관리 스크린]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 10 41" src="https://github.com/user-attachments/assets/ad38796d-65f2-419e-828d-fa9c086f687d" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 10 41" src="https://github.com/user-attachments/assets/ad38796d-65f2-419e-828d-fa9c086f687d" />
 
   </br></br>
 
@@ -85,26 +85,26 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
   </br>[메뉴 구성]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 35" src="https://github.com/user-attachments/assets/687ab07d-5cbd-43cb-a0ff-6b65e50ed5c8" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 35" src="https://github.com/user-attachments/assets/687ab07d-5cbd-43cb-a0ff-6b65e50ed5c8" />
 
   </br>[1 to 25 게임]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 39" src="https://github.com/user-attachments/assets/5d80dad5-9eb6-4ec4-8bbd-0a2854a6a895" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 46" src="https://github.com/user-attachments/assets/c7d6b38c-8fbd-44c4-beb3-b2f378919db0" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 54" src="https://github.com/user-attachments/assets/bb9e282a-5fec-4d56-90d4-b7a7243d549b" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 39" src="https://github.com/user-attachments/assets/5d80dad5-9eb6-4ec4-8bbd-0a2854a6a895" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 46" src="https://github.com/user-attachments/assets/c7d6b38c-8fbd-44c4-beb3-b2f378919db0" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 27 54" src="https://github.com/user-attachments/assets/bb9e282a-5fec-4d56-90d4-b7a7243d549b" />
 
   </br>[메모리 게임]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 29 07" src="https://github.com/user-attachments/assets/56521c91-7b38-4b5c-81d9-752dd2464ac9" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 29 33" src="https://github.com/user-attachments/assets/c41907c7-2a1c-43ea-a5d7-ab9eb6d36131" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 29 40" src="https://github.com/user-attachments/assets/f9a16b52-0bfe-40d2-af56-db0077577ad7" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 29 07" src="https://github.com/user-attachments/assets/56521c91-7b38-4b5c-81d9-752dd2464ac9" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 29 33" src="https://github.com/user-attachments/assets/c41907c7-2a1c-43ea-a5d7-ab9eb6d36131" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 29 40" src="https://github.com/user-attachments/assets/f9a16b52-0bfe-40d2-af56-db0077577ad7" />
 
   </br>[구구단 게임]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 34 53" src="https://github.com/user-attachments/assets/18ba1151-867b-42f4-b9a1-a8042bf43b35" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 35 11" src="https://github.com/user-attachments/assets/88e95afc-8ddf-4e95-bf84-772b95518e26" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 35 14" src="https://github.com/user-attachments/assets/f1f88f2c-58c1-4fa4-8cc6-37e7c6af4ada" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 34 53" src="https://github.com/user-attachments/assets/18ba1151-867b-42f4-b9a1-a8042bf43b35" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 35 11" src="https://github.com/user-attachments/assets/88e95afc-8ddf-4e95-bf84-772b95518e26" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 35 14" src="https://github.com/user-attachments/assets/f1f88f2c-58c1-4fa4-8cc6-37e7c6af4ada" />
 
   </br>[쿠키 (공룡런)]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 34 44" src="https://github.com/user-attachments/assets/76453dd6-47b9-45f7-a004-2981d275a5b9" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 34 48" src="https://github.com/user-attachments/assets/307b6ed9-c72d-47f3-860f-d6544df63408" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 34 44" src="https://github.com/user-attachments/assets/76453dd6-47b9-45f7-a004-2981d275a5b9" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 13 34 48" src="https://github.com/user-attachments/assets/307b6ed9-c72d-47f3-860f-d6544df63408" />
 
   </br></br>
 
@@ -123,13 +123,13 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   
   </br>[국가별 리스트]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 00 10" src="https://github.com/user-attachments/assets/48c894de-5f0f-441b-91a6-d348140cdeda" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 00 20" src="https://github.com/user-attachments/assets/949a637d-09c6-4f11-a5f2-a94b2f5c02de" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 00 25" src="https://github.com/user-attachments/assets/565bd95b-3e0e-43d2-9f31-b1b7027d13ce" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 00 10" src="https://github.com/user-attachments/assets/48c894de-5f0f-441b-91a6-d348140cdeda" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 00 20" src="https://github.com/user-attachments/assets/949a637d-09c6-4f11-a5f2-a94b2f5c02de" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 00 25" src="https://github.com/user-attachments/assets/565bd95b-3e0e-43d2-9f31-b1b7027d13ce" />
 
   </br>[수도 퀴즈 화면]</br>
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 05 44" src="https://github.com/user-attachments/assets/7c6b0169-293e-4c26-8b7b-a6b7924ec8bf" />
-  <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 05 41" src="https://github.com/user-attachments/assets/b5c8cf90-4fa3-40fc-adb5-e98638580e06" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 05 44" src="https://github.com/user-attachments/assets/7c6b0169-293e-4c26-8b7b-a6b7924ec8bf" />
+  <img width="200" height="450" alt="Simulator Screenshot - iPhone 16 Pro - 2026-04-09 at 14 05 41" src="https://github.com/user-attachments/assets/b5c8cf90-4fa3-40fc-adb5-e98638580e06" />
 
   </br></br>
 
@@ -147,15 +147,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   
   </br>[간선 부자재 입력폼 클립보드 복사]</br>
-  <img width="230" height="500" alt="스크린샷 2026-04-09 14 20 38" src="https://github.com/user-attachments/assets/d6d917b6-ed82-48a3-81d8-6915480109a0" />
-  <img width="230" height="500" alt="스크린샷 2026-04-09 14 20 47" src="https://github.com/user-attachments/assets/87c158a1-7782-4b05-82bb-c00223a51cc2" />
-  <img width="230" height="500" alt="스크린샷 2026-04-09 14 20 50" src="https://github.com/user-attachments/assets/98c73578-0723-4adb-ae0c-0bb9ed0c57fb" />
+  <img width="200" height="450" alt="스크린샷 2026-04-09 14 39 46" src="https://github.com/user-attachments/assets/7014b145-ea04-4bed-8132-57900df59c48" />
+  <img width="200" height="450" alt="스크린샷 2026-04-09 14 20 47" src="https://github.com/user-attachments/assets/87c158a1-7782-4b05-82bb-c00223a51cc2" />
+  <img width="200" height="450" alt="스크린샷 2026-04-09 14 20 50" src="https://github.com/user-attachments/assets/98c73578-0723-4adb-ae0c-0bb9ed0c57fb" />
 
   </br>[바코드 촬영 스크린 - Web 환경에서도 구동]</br>
-  <img width="230" height="500" alt="스크린샷 2026-04-09 14 22 46" src="https://github.com/user-attachments/assets/8991a163-9619-45dc-9e2c-02eeb024c4e2" />
+  <img width="200" height="450" alt="스크린샷 2026-04-09 14 22 46" src="https://github.com/user-attachments/assets/8991a163-9619-45dc-9e2c-02eeb024c4e2" />
 
   </br>[Daily 업무 알리미]</br>
-  <img width="230" height="500" alt="스크린샷 2026-04-09 14 25 08" src="https://github.com/user-attachments/assets/13528c4b-6dac-4b7d-a21c-1e8bdbfe0e6b" />
-  <img width="230" height="500" alt="스크린샷 2026-04-09 14 25 14" src="https://github.com/user-attachments/assets/4041c6a7-0fa5-480f-b14b-0d39de654642" />
-  
+  <img width="200" height="450" alt="스크린샷 2026-04-09 14 25 08" src="https://github.com/user-attachments/assets/13528c4b-6dac-4b7d-a21c-1e8bdbfe0e6b" />
+  <img width="200" height="450" alt="스크린샷 2026-04-09 14 51 07" src="https://github.com/user-attachments/assets/ae5a753b-c6ba-4e0b-9677-b0ce0ea2d4e1" />
+
 </div>
